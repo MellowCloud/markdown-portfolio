@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yngwie](https://gbf.wiki/images/5/52/Npc_zoom_3040088000_03.png)
